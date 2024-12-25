@@ -1,0 +1,11 @@
+phishing-domain-detection/
+├── data/
+├── src/
+│   ├── data/
+│   ├── models/
+│   ├── deployment/
+│   ├── utils/
+├── notebooks/
+├── requirements.txt
+├── README.md
+├── .gitignore
